@@ -1,0 +1,22 @@
+[
+  {
+    "settingName": "MaxFileSizeLimit",
+    "settingValue": "25"
+  },
+  {
+    "settingName": "GlobalFormat",
+    "settingValue": "{\"AvailableFonts\":[\"Times-Roman\",\"Roboto\",\"Arial\",\"Sans-Serif\",\"Segoe\"]}"
+  },
+  {
+    "settingName": "SessionExpirationInMinutes",
+    "settingValue": "10"
+  },
+  {
+    "settingName": "FormLockExpirationInMinutes",
+    "settingValue": "60"
+  },
+  {
+    "settingName": "FormCloningLimit",
+    "settingValue": "5"
+  }
+]

@@ -60,6 +60,9 @@
         },
         "serve": {
           "builder": "@angular-devkit/build-angular:dev-server",
+          "options": {
+            "port": 4765
+          },
           "configurations": {
             "production": {
               "buildTarget": "ng-rxjs-pipes:build:production"
